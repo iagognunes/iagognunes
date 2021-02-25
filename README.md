@@ -20,7 +20,7 @@
 
 <br />
 
-[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?iagognunes=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=blue-green)](https://github.com/iagognunes/github-readme-stats)
 
 <!-- Links -->
 [linkedin]: https://linkedin.com/in/iagognunes
