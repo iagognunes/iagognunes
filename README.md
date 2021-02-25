@@ -21,6 +21,8 @@
 <br />
 
 [![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=blue-green)](https://github.com/iagognunes/github-readme-stats)
+<br />
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=blue-green)
 
 <!-- Links -->
 [linkedin]: https://linkedin.com/in/iagognunes
