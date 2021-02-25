@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Iago</h1>
 
+### Connect with me
+
+[<img align="left" alt="iagognunes | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iagognunes | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <!--
 **iagognunes/iagognunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
