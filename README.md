@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Links -->
+[linkedin]: https://linkedin.com/in/iagognunes
+[instagram]: https://instagram.com/iagognunes/
