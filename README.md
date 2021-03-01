@@ -1,28 +1,34 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Iago Guedelha Nunes</h1>
 
-### Connect with me
+**Social Media:**
 
-[<img align="left" alt="iagognunes | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iagognunes | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![GitHub](icons/github.png)](https://github.com/iagognunes)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/iagognunes/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/iagognunes/)
 
-<br />
+**Currently working with:**
 
-### Languages and Frameworks
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/100/000000/dart.png" alt="dart" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/100/000000/flutter.png" alt="flutter" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
-</p>
+**Learning:**
 
-<br />
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+
+**Previously worked with:**
+
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 
 [![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=blue-green)](https://github.com/iagognunes/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=blue-green)
-
-<!-- Links -->
-[linkedin]: https://linkedin.com/in/iagognunes
-[instagram]: https://instagram.com/iagognunes/
