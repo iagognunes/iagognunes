@@ -22,6 +22,7 @@
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 **Previously worked with:**
 
