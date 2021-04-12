@@ -34,7 +34,7 @@
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
 
-<h3 align="center">⭐  Statistics and Languages</h3>
+<h3 align="center">⭐  Statistics</h3>
 
 [![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true)](https://github.com/iagognunes/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&layout=compact)
