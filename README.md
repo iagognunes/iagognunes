@@ -35,6 +35,9 @@
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
 
+<br/>
+<br/>
+
 <h3 align="center">⭐  Statistics</h3>
 
 [![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true)](https://github.com/iagognunes/github-readme-stats)
