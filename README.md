@@ -50,4 +50,4 @@
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)|
 
-Fica a vontade :sunglasses::v:
+Fica a vontade :v: :sunglasses:
