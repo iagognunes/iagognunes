@@ -46,10 +46,6 @@
 |:---:|:---:|
 |[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&layout=compact&langs_count=8)
 
-|Wakatime Stats|
-|:---:|
-|[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-
 |TROFÉUS DO GITHUB|
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
