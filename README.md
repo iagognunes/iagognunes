@@ -11,8 +11,6 @@
 
 **Currently working with:**
 
-<a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
