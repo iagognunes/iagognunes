@@ -40,11 +40,11 @@
 
 <h3 align="center">⭐  Statistics</h3>
 
-|GITHUB STATS|LINGUAGENS|
+|GITHUB STATS|LANGUAGES|
 |:---:|:---:|
 |[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&layout=compact&langs_count=8)
 
-|TROFÉUS DO GITHUB|
+|GITHUB TROPHIES|
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
 
