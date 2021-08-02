@@ -52,3 +52,5 @@
 |[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 Fica a vontade :v::sunglasses:
+</br></br>
+![](https://visitor-badge.glitch.me/badge?page_id=iagognunes.iagognunes)
