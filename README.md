@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Iago Guedelha Nunes :man_technologist:</h1>
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618262880806.png" alt="Meu OctoCat" align="right" height="450" align="right"/>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br/>
 <br/>
 
@@ -39,19 +40,28 @@
 <br/>
 <br/>
 
+---
+
 <h3 align="center">⭐  Statistics</h3>
+
 
 |GITHUB STATS|LANGUAGES|
 |:---:|:---:|
 |[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&layout=compact&langs_count=8)
 
+---
+
 |GITHUB TROPHIES|
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
 
+---
+
 |Wakatime Stats|
 |:---:|
 |[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+
+---
 
 Fica a vontade :v::sunglasses:
 </br></br>
