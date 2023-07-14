@@ -8,19 +8,20 @@
 
 [![GitHub](icons/github.png)](https://github.com/iagognunes)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/iagognunes/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/iagognunes/)
 
 **Currently working with:**
 
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 **Learning:**
 
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <!--
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
