@@ -1,43 +1,34 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Iago Guedelha Nunes :man_technologist:</h1>
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618262880806.png" alt="Meu OctoCat" align="right" height="450" align="right"/>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br/>
 <br/>
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/iagognunes)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/iagognunes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagognunes/)
 
 **Currently working with:**
 
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Learning:**
 
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<!--
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Previously worked with:**
 
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br/>
 <br/>
 
@@ -45,25 +36,30 @@
 
 <h3 align="center">⭐  Statistics</h3>
 
-
+<div align="center">
+  
 |GITHUB STATS|LANGUAGES|
 |:---:|:---:|
-|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&layout=compact&langs_count=8)
+|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8)
+
+</div>
 
 ---
 
-|GITHUB TROPHIES|
-|:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
-
----
-
+<div align="center">
+  
 |Wakatime Stats|
 |:---:|
 |[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
+</div>
+
 ---
 
-Fica a vontade :v::sunglasses:
-</br></br>
-![](https://visitor-badge.glitch.me/badge?page_id=iagognunes.iagognunes)
+<div align="center">
+  
+|GITHUB TROPHIES|
+|:---:|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=iagognunes&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
+
+</div>
