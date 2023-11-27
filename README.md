@@ -37,9 +37,9 @@
 
 <div align="center">
   
-|GITHUB STATS|LANGUAGES|
+|GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8)
+|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true)
 
 </div>
 
