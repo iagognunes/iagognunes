@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Iago Guedelha Nunes :man_technologist:</h1>
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618262880806.png" alt="Meu OctoCat" align="right" height="450" align="right"/>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br/>
 <br/>
