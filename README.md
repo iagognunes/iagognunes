@@ -52,7 +52,7 @@
   
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Iago G. Nunes github stats](https://github-readme-stats-gamma-sable-40.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats-gamma-sable-40.vercel.app/api/top-langs/?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)
+|[![Iago G. Nunes github stats](https://github-stats-extended.vercel.app/api?username=iagognunes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=iagognunes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)|[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=iagognunes&layout=compact&langs_count=10&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=iagognunes&layout=compact&langs_count=10&theme=midnight-purple)
 <!-- |[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iagognunes&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true) -->
 
 
