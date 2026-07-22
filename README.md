@@ -64,7 +64,8 @@
   
 |Wakatime Stats|
 |:---:|
-|[![Iago G. Nunes wakatime stats](https://github-readme-stats-gamma-sable-40.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=iagognunes&layout=compact&langs_count=100&theme=midnight-purple)](https://wakatime.com/@iagognunes)|
+<!--|[![Iago G. Nunes wakatime stats](https://github-readme-stats-gamma-sable-40.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| -->
 <!-- |[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagognunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| -->
 
 </div>
